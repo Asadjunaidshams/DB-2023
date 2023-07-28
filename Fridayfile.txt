@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Greetings
+=======
+>>>>>>> 60db89e (first commit)
 Hello
 Good
 Morning
