@@ -1,3 +1,4 @@
 thanos
 batista
 groot
+loki
